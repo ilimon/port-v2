@@ -3,9 +3,11 @@
 <url> <loc>https://cluzier.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/posts/what-to-learn-first/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cluzier.github.io/posts/introduction_to_css/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/posts/the-art-of-css-illustrations/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/css</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/design</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cluzier.github.io/tag/guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/web-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/category/discussion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
