@@ -7,6 +7,8 @@
 <url> <loc>https://cluzier.github.io/posts/introduction_to_css/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/posts/Introduction-to-matterjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/posts/introduction_to_isomerjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cluzier.github.io/posts/preprocessors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cluzier.github.io/posts/parsing-xml/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/css</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/design</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -14,8 +16,10 @@
 <url> <loc>https://cluzier.github.io/tag/programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/web-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/web-development/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cluzier.github.io/tag/xml</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/category/discussion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/category/guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cluzier.github.io/category/guide/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
