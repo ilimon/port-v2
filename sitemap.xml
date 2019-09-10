@@ -2,15 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://cluzier.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cluzier.github.io/posts/the-art-of-css-illustrations/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/posts/what-to-learn-first/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cluzier.github.io/posts/introduction_to_css/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cluzier.github.io/posts/the-art-of-css-illustrations/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/posts/Introduction-to-matterjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/posts/introduction_to_isomerjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cluzier.github.io/posts/preprocessors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/posts/parsing-xml/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cluzier.github.io/posts/introduction_to_css/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cluzier.github.io/posts/aos-review/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cluzier.github.io/posts/preprocessors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/css</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/design</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cluzier.github.io/tag/discussion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/tag/programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -19,7 +21,6 @@
 <url> <loc>https://cluzier.github.io/tag/xml</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/category/discussion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/category/guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cluzier.github.io/category/guide/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cluzier.github.io/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
