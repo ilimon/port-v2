@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://cluzier.github.io/sitemap.xml
+Host: https://cluzier.github.io
