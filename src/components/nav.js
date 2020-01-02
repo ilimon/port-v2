@@ -299,6 +299,12 @@ class Nav extends Component {
                       rel="nofollow noopener noreferrer">
                       Resume
                     </StyledResumeButton>
+                    <StyledResumeButton
+                      href="https://www.buymeacoffee.com/zbA3PSw"
+                      target="_blank"
+                      rel="nofollow noopener noreferrer">
+                      Buy me a Coffee
+                    </StyledResumeButton>
                   </div>
                 </CSSTransition>
               )}
