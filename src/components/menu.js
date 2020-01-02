@@ -110,6 +110,12 @@ const Menu = ({ menuOpen, toggleMenu }) => {
           <ResumeLink href="/resume.pdf" target="_blank" rel="nofollow noopener noreferrer">
             Resume
           </ResumeLink>
+          <ResumeLink
+            href="https://www.buymeacoffee.com/zbA3PSw"
+            target="_blank"
+            rel="nofollow noopener noreferrer">
+            Buy me a Coffee
+          </ResumeLink>
         </NavLinks>
       </Sidebar>
     </StyledContainer>
